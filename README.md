@@ -1,9 +1,5 @@
 # INFOGR 2024 Practical 2 - Rasterizer
 
-- Team members:
-  - Una Garcia `7403658`
-  - Vlad Puscaru `5248973`
-
 ## Formalities:
 
 - [ ] This readme.txt
